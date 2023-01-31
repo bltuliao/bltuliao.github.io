@@ -5,7 +5,17 @@
     <link>https://bltuliao.github.io/</link>
     <description>Recent content on Bianca Tuliao</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://bltuliao.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Jan 2023 00:51:13 +0000</lastBuildDate><atom:link href="https://bltuliao.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TailWhip</title>
+      <link>https://bltuliao.github.io/projects/tailwhip/</link>
+      <pubDate>Tue, 31 Jan 2023 00:51:13 +0000</pubDate>
+      
+      <guid>https://bltuliao.github.io/projects/tailwhip/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Blog</title>
       <link>https://bltuliao.github.io/blog/</link>
@@ -21,7 +31,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://bltuliao.github.io/career/</guid>
-      <description>A summary of Bianca&amp;rsquo;s experience in the tech industry</description>
+      <description>An overview of Bianca&amp;rsquo;s work and volunteer experience in the tech industry</description>
     </item>
     
     <item>
@@ -30,7 +40,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://bltuliao.github.io/projects/</guid>
-      <description>A hub showcasing Bianca&amp;rsquo;s projects</description>
+      <description>A corner of the internet showcasing Bianca&amp;rsquo;s personal projects</description>
     </item>
     
   </channel>
